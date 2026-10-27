@@ -3,8 +3,9 @@
 A command-line tool that detects tampering in log files using SHA-256 hashing,
 append-aware verification, and an HMAC-signed baseline.
 
-Built as a learning project (roadmap.sh "File Integrity Checker") in Python 3,
-standard library only.
+Built as a learning project for the
+[roadmap.sh File Integrity Checker project](https://roadmap.sh/projects/file-integrity-checker)
+in Python 3, standard library only.
 
 ## Why this exists
 
